@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AWS CI/CD Project - Pruthviraj</title>
+</head>
+<body>
+    <h1>CI/CD Pipeline Deployed Successfully 🚀</h1>
+    <p>Created by Pruthviraj</p>
+</body>
+</html>

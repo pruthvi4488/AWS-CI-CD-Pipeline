@@ -1,0 +1,11 @@
+#!/bin/bash
+systemctl start httpd
+systemctl enable httpd
+
+---
+
+**After Creating Scripts
+
+chmod +x scripts/*.sh
+
+(Give this Permissions)
